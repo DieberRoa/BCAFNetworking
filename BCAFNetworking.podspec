@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'BCAFNetworking'
-  s.version  = '3.1.1'
+  s.version  = '3.1.2'
   s.license  = 'MIT'
   s.summary  = 'Copia de AFNetworking'
   s.homepage = 'https://https://github.com/DieberRoa/BCAFNetworking'
