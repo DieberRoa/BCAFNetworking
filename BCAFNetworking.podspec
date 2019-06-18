@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name     = 'BCAFNetworking'
-  s.version  = '3.1.0'
+  s.version  = '3.1.1'
   s.license  = 'MIT'
-  s.summary  = 'A delightful iOS and OS X networking framework.'
-  s.homepage = 'https://github.com/AFNetworking/AFNetworking'
-  s.social_media_url = 'https://twitter.com/AFNetworking'
+  s.summary  = 'Copia de AFNetworking'
+  s.homepage = 'https://https://github.com/DieberRoa/BCAFNetworking'
+  s.social_media_url = 'https://twitter.com'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
   s.source   = { :git => 'https://github.com/DieberRoa/BCAFNetworking.git', :tag => s.version, :submodules => true }
   s.requires_arc = true
